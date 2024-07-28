@@ -23,7 +23,7 @@
 }
 
 #Ashley{
-    background-color: rgb(236, 228, 204);
+    background-color: white;
     border-radius: 10px;
     padding: 25px;
 }
@@ -36,11 +36,24 @@
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-  }
+}
+
+#nav{
+    background-color: white;
+}
+
+#box{ 
+    margin: 5px;
+}
+
+#explore{
+    border-radius: 10px;
+    
+}
   
+
 /* 
 #banner{
     width: 425px;
     height: 200px;   
 } */
-
